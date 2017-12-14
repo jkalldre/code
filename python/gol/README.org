@@ -1,0 +1,5 @@
+* Basic stuff 
+  - Run program with -> python main.py
+  - Text box used to speed up loop, values between 0-1 work best
+  - Reset -> clears the board
+  - Start/Stop -> pauses and resumes loop
