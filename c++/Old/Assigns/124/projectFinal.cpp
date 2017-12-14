@@ -1,0 +1,437 @@
+/***********************************************************************
+* Program:
+*    Project 4, Sudoku Solver          (e.g. Assignment 01, Hello World)  
+*    Brother Grimmett, CS124
+* Author:
+*    Jacob Alldredge
+* Summary: 
+*    
+*   Program is a Sudoku game. Program will open an indicated file,   
+*   receive and respond to user input and then save the game to a
+*   target location indicated by the user.
+*
+*    Estimated:  6.0 hrs   
+*    Actual:     5.0 hrs
+*      I had some difficulty with my checkSquare function. I found it
+*      that it was causing inaccuracy in my other functions after much
+*      heart ache.
+************************************************************************/
+
+#include <iostream>
+#include <fstream>
+#include <cstring>
+using namespace std;
+
+void getFileName(char fileName[]);
+int readFile(char fileName[], int board[][9]);
+void fileWrite(char writeFile[], int board[][9]);
+void getWriteFile(char writeFile[]);
+void userInput(char writeFile[], int board[][9]);
+void display(int board[][9]);
+int editSquare(int board[][9]);
+int possibleVal(int board[][9]);
+void getCoords(int board[][9], int &x, int &y, char input[]);
+bool checkSquare(int board[][9], int x, int y, int value, char input[]);
+int solve(int board[][9]);
+
+/************************************************************************
+ * main serves to call all the other functions and hold the values of   *
+ * variables obtained through other functions, it will show the initial *
+ * instructions to player of how to navigate the game.                  *
+ ************************************************************************/
+int main(int argc, char** argv)
+{
+   char fileName[256];
+   char writeFile[256];
+   
+   if (argc > 1)
+      strcpy(fileName, argv[1]);
+   
+   else
+      getFileName(fileName);
+   
+   int board[9][9];
+   int size = readFile(fileName, board);
+
+   if (size != -1)
+   {
+      cout << "Options:\n"
+           << "   ?  Show these instructions\n"
+           << "   D  Display the board\n"
+           << "   E  Edit one square\n"
+           << "   S  Show the possible values for a square\n"
+           << "   Q  Save and Quit\n"
+           << "   R  Puzzle Solver\n" << endl;
+
+      display(board);
+      
+      userInput(writeFile, board);
+
+      cout << "Board written successfully\n";
+   }
+   
+   return 0;
+}
+
+/*********************************************************************
+ * getFileName will simply retrieve the desired board to play sudoku *
+ *********************************************************************/
+void getFileName(char fileName[])
+{
+   cout << "Where is your board located? ";
+   cin >> fileName;
+   
+   return;
+}
+
+/***********************************************************************
+ * readFile is a standard read file function to retrieve the requested *
+ * board to be displayed and/ modified                                 *
+ ***********************************************************************/
+int readFile(char fileName[], int board[][9])
+{
+   ifstream fin(fileName);
+
+   if (fin.fail())
+      return -1;
+
+   int i = 0;
+   for (int y = 0; y < 9; y++)
+   {
+      for (int x = 0; x < 9; x++)
+         fin >> board[y][x];
+      i++;
+   }
+
+   fin.close();
+   
+   return i;
+}
+
+/*******************************************************************
+ * getWriteFile will received desired file save location from user *
+ *******************************************************************/
+void getWriteFile(char writeFile[])
+{
+   cout << "What file would you like to write your board to: ";
+   cin >> writeFile;
+   return;
+}
+
+/**********************************************************************
+ * fileWrite will write the retrieved file and save it to the same or *
+ * a new location                                                     *
+ **********************************************************************/
+void fileWrite(char writeFile[], int board[][9])
+{
+   ofstream fout(writeFile);
+
+   for (int y = 0; y < 9; y++)
+   {
+      for (int x = 0; x < 9; x++)
+         fout << board[y][x] << " ";
+      fout << endl;
+   }
+
+   fout.close();
+}
+
+/*********************************************************************
+ * userInput runs a loop so the user can navigate the game. They can *
+ * choose between several options to edit / display / save the board *
+ *********************************************************************/
+void userInput(char writeFile[], int board[][9])
+{
+   char input;
+              
+   do
+   {
+      cout << "> ";
+      cin >> input;
+      switch (input)
+      {
+         case '?':
+            cout << "Options:\n"
+                 << "   ?  Show these instructions\n"
+                 << "   D  Display the board\n"
+                 << "   E  Edit one square\n"
+                 << "   S  Show the possible values for a square\n"
+                 << "   Q  Save and Quit\n\n"
+                 << "   R  Puzzle Solver\n" << endl;
+            break;
+         case 'D':
+            display(board);
+            break;
+         case 'E':
+            editSquare(board);
+            break;
+         case 'S':
+            possibleVal(board);
+            break;
+         case 'Q':
+            getWriteFile(writeFile);
+            fileWrite(writeFile, board);
+            break;
+         case 'R':
+            solve(board);
+            break;
+      }
+   }
+   while (input != 'Q');
+}
+
+/**********************************************************************
+ * display will display the retrieved file on the screen for the user *
+ **********************************************************************/
+void display(int board[][9])
+{
+   cout << "   A B C D E F G H I\n";
+   
+   for (int cY = 0; cY < 9; cY++)
+   {
+      cout << cY + 1 << " ";
+      for (int cX = 0; cX < 9; cX++)
+      {
+         if (cX == 2)
+         {
+            if (board[cY][cX] == 0)
+               cout << "  |";
+            else
+               cout << " " << board[cY][cX] << "|";
+         }
+         
+         else if (cX == 5)
+         {
+            if (board[cY][cX] == 0)
+            {
+               if (board[cY][cX - 1] != 0)
+                  cout << "  |";
+               else
+                  cout << " |";
+            }
+            else
+               cout << " " << board[cY][cX] << "|";
+         }
+         
+         else
+         {
+            if (cX == 3)
+            {
+               if (board[cY][cX] == 0)
+                  cout << "  ";
+               else
+                  cout << board[cY][cX];
+            }
+            
+            else if (cX == 6)
+            {
+               if (board[cY][cX] == 0)
+                  cout << " ";
+               else
+                  cout << board[cY][cX];
+            }
+            
+            else
+            {
+               if (board[cY][cX] == 0)
+                  cout << "  ";
+               else
+               {
+
+                  if (cX == 4)
+                  {
+                     if (board[cY][cX - 1] != 0)
+                        cout << " " << board[cY][cX];
+                     else
+                        cout << board[cY][cX];
+                  }
+                  else
+                     cout << " " << board[cY][cX];
+               }
+            }
+         }
+      }
+      
+      cout << endl;
+      
+      if (cY == 2 || cY == 5)
+         cout << "   -----+-----+-----\n";
+   }
+   
+   cout << endl;
+   
+   return;
+}
+
+/**********************************************************************
+ * editSquare will edit the coordinate selected by the user and place *
+ * the requested value in the location                                *
+ **********************************************************************/
+int editSquare(int board[][9])
+{
+   int x;
+   int y;
+   int value = 100;
+   char input[3];
+   
+   getCoords(board, x, y, input);
+
+   bool oK = checkSquare(board, x, y, value, input);
+   
+   if (oK == true)
+   {
+      cout << "What is the value at \'" << input[0] << input[1] << "\': ";
+      cin >> value;
+            
+      bool oK = checkSquare(board, x, y, value, input);
+      if (oK == true)
+      {
+         board[y][x] = value;
+         cout << endl;
+      }
+      else
+         cout << "ERROR: Value \'" << value << "\' in square \'"
+              << input[0] << input[1] << "\' is invalid\n\n";
+   }
+      
+   return 0;
+}
+
+/*********************************************************************
+ * possibleVal will show the user what values could potentially work *
+ * in the selected coordinate                                        *
+ *********************************************************************/
+int possibleVal(int board[][9])
+{
+   char input[3];
+   int x;
+   int y;
+   int possible[9];
+   int count = 0;
+   
+   getCoords(board, x, y, input);
+
+   cout << "The possible values for \'" << input[0] << input [1]
+        << "\' are: ";
+   for (int i = 0; i < 10; i++)
+   {
+      bool oK = checkSquare(board, x, y, i, input);
+      if (oK == true)
+      {
+         cout << ((count != 0) ? ", " : "") << i;  
+         count++;
+      }
+   }
+   cout << endl << endl;
+   
+}
+
+/**********************************************************************
+ * getCoords will retrieve coordinates from the user and convert them *
+ * into integers                                                      *
+ **********************************************************************/
+void getCoords(int board[][9], int &x, int &y, char input[])
+{
+   
+   cout << "What are the coordinates of the square: ";
+   cin >> input;
+
+   y = input[1] - '1';
+   x = input[0] - 'A';
+
+   return;
+}
+
+/**********************************************************************
+ * checkSquare will check the values inside the square to ensure that *
+ * user makes a valid move and no numbers are repeated in the puzzle  *
+ **********************************************************************/
+bool checkSquare(int board[][9], int x, int y, int value, char input[])
+{
+   if (x != 0 && x != 1 && x != 2 && x != 3 && x != 4
+       && x != 5 && x != 6 && x != 7 && x != 8 || y != 0
+       && y != 1 && y != 2 && y != 3 && y != 4 && y != 5 && y != 6
+       && y != 7 && y != 8)
+   {
+      
+      return false;
+   }
+   
+   if (board[y][x] == 0)
+   {
+      for (int i = 0; i < 9; i++)
+         if (board[i][x] == value)
+         {
+            //cout << "error1";
+            return false;
+         }
+      for (int i = 0; i < 9; i++)
+         if (board[y][i] == value)
+         {
+            //cout << "error2";
+            return false;
+         }
+      int startX = ((y / 3) * 3);
+      int startY = ((x / 3) * 3);
+      
+      for (int i = startX; i < startX + 3; i++)
+         for (int j = startY; j < startY + 3; j++)
+            if (board[i][j] == value)
+            {
+               //cout << "error3";
+               return false;
+            }
+   }
+   
+   else
+   {
+      return false;
+   }
+   
+   return value;
+}
+
+/********************************************************
+ * solve is a cheater's best friend. This function will *
+ * solve only easy puzzles but will do it in a heartbeat*
+ *******************************************************/
+int solve(int board[][9])
+{
+   char input[3];
+   int x;
+   int y;
+   int i;
+   int count = 0;
+   int value = 0;
+   //getCoords(board, x, y, input);
+
+   for (y = 0; y < 9; y++)
+      for (x = 0; x < 9; x++)
+      {
+         for (i = 0; i < 10; i++)
+         {
+            bool oK = checkSquare(board, x, y, i, input);
+            if (oK == true)
+            {
+               count++;
+               value = i;
+            }
+         }
+         if (count == 1)
+         {
+            board[y][x] = value;
+            count = 0;
+            x = 0;
+            y = 0;
+         }
+         
+         else
+            count = 0;
+         
+         
+      }
+   
+   cout << endl << endl;
+   display(board);
+   
+}

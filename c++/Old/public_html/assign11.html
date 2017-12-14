@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <link rel="stylesheet" type="text/css" href="assign11.css"/>
+  <script src="assign11.js" type="text/javascript"></script>
+  <title>Milage Calculator</title>
+</head>
+<body>
+  <div class="bod">
+  <h1>Milage Calculator</h1>
+  <p id="err"></p>
+  <fieldset>
+    Start Location:<br/>
+    City: <input id="sCity" type="text" name="startCity" required autofocus/>
+     State: <input id="sState" type="text" name="startState" maxlength="2" required/><br/><br/>
+    Destination:<br/>
+    City: <input id="eCity" type="text" name="endCity" required/>
+     State: <input id="eState" type="text" name="endState" maxlength="2" required/><br/><br/>
+    <button type="button" name="ajaxrequest" onclick="call();">Find Distance</button>
+  </fieldset>
+    <textarea id="inp" cols="40" rows="10"></textarea>
+</div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <title>Ajax w/ JSON</title>
+  <link rel="stylesheet" type="text/css" href="assign08.css"/>
+  <script src="assign08.js" type="text/javascript"></script>
+</head>
+
+<body onload="getInfo();">
+  <h1>Select a country to see it's most populated cities!</h1>
+  <select id="countries" name="pickCountry" onchange="getInfo();">
+    <option id="us" value="0" selected="selected">United States</option>
+    <option value="1">Mexico</option>
+    <option value="2">Canada</option>
+    <option value="3">Russia</option>
+  </select><br/><br/><br/>
+
+  <div class="d0">
+    <textarea id="info" cols="30" rows="12" >sss</textarea>
+  </div>
+<br/><hr/><hr/>
+<div style="margin:auto; border: 1px solid black; padding:5px; text-align:center">
+ <p id="jsonInsert"></p>
+ <input id="url" type="text" name="url" placeholder="url" value="json.txt"/>
+ <button type="button" onclick="getDoc1(document.getElementById('url').value, 1);">Get Document</button>
+</div>
+
+</body>
+</html>

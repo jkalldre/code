@@ -1,0 +1,18 @@
+
+# mkdir check08b.tar.dir 2>> check08b.compile 
+
+# cp check08b.tar check08b.tar.dir/tar.tar 2>> check08b.compile 
+
+# tar -xf  check08b.tar.dir/tar.tar -C check08b.tar.dir 2>> check08b.compile >> check08b.compile 
+
+# make a.out -C check08b.tar.dir 2>> check08b.compile >> check08b.compile 
+make: Entering directory `/home/all15019/check08b/check08b.tar.dir'
+g++ -c phone.cpp
+g++ -c smartphone.cpp
+g++ -c check08b.cpp
+g++ phone.o smartphone.o check08b.o
+make: Leaving directory `/home/all15019/check08b/check08b.tar.dir'
+
+# mv check08b.tar.dir/a.out /tmp/testbed/compileDira4e84af0-76bc-40e9-8d98-eceda83c3b40/check08b 2>> check08b.compile >> check08b.compile 
+
+# rm -rf check08b.tar.dir 2>> check08b.compile 

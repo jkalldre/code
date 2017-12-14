@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <title>Job App</title>
+  <link rel="stylesheet" type="text/css" href="assign03.css"/>
+  <style></style>
+</head>
+<body>
+  <header>
+    <h1>Sheldori Industries</h1>
+  </header>
+  <div id="Lbox"></div>
+  <div class="nav" onclick="location.href='assign03.html'"><p>Home</p></div>
+  <div class="nav" onclick="location.href='index.html'"><p>Assignments</p></div>
+  <div class="nav" style="background-color:#4E4F49;"><p>Job Application</p></div>
+  <hr/>
+  <form style="position:relative;">
+    <div class="application sitebody" style="1em;">
+      <table>
+        <tr>
+          <textarea rows="20" cols="100" name="" placeholder="Paste your resume here to be considered for selected job-title.
+           Thank you for your desire to change the world!"
+           style="resize:none; margin:10em 2em 2em 25em;"></textarea>
+        </tr>
+        <tr>
+          <fieldset>
+            <legend style="font-size:1.5em;">Personal Information</legend>
+            First:
+            <input type="text" name="firstname" placeholder="First Name"/>Last:
+            <input type="text" name="lastname" placeholder="Last Name"/>Phone:
+            <input type="text" name="number" placeholder="xxx-xxx-xxxx" maxlength="12"/><br/>
+          </fieldset>
+        </tr>
+        <tr>
+          <input class="b" type="radio" name="jobtitle" value="Software Developer"/>Software Developer<br/>
+          <input class="b" type="radio" name="jobtitle" value="Electrical Engineer"/>Electrical Engineer<br/>
+          <input class="b" type="radio" name="jobtitle" value="Mechanical Engineer"/>Mechanical Engineer<br/>
+          <input class="b" type="radio" name="jobtitle" value="Internship"/>Internship
+        </tr>
+      </div>
+      <div style="float:right; margin-right:3em;">
+        <button type="submit" value="Submit">Submit</button>
+        <button type="reset" value="Reset">Reset</button>
+      </div>
+    </form>
+    <footer>
+      <p class="foot" style="top:5em; position:relative;">1-800-SCI-ENCE |
+        4675 N Statestreet San Jose, CA |
+        Office Hours: Monday - Saturday: 7am - 7pm
+      </p>
+    </footer>
+
+  </body>
+  </html>

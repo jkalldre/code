@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+<style>
+</style>
+<title>Jacob Alldredge's Assignments</title> 
+</head>
+<base>
+
+<div style="background-color:lightblue; color:black; padding:100px; font-family:courier;
+  text-align:center;">
+<body>
+<h1 style="font-size:200%;">CS 213 Assignments</h1>
+<ul style="list-style-position:inside">
+  <li><a href="http://localhost/~jkalldre/assign01.html">Assignment 01</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 02</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 03</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 04</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 05</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 06</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 07</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 08</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 09</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 10</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 11</a></li>
+  <li><a href="http://localhost/~jkalldre/index.html" title="Incomplete link">Assignment 12</a></li>
+<!--
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 02</a>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 08</a><br>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 03</a>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 09</a><br>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 04</a>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 10</a><br>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 05</a>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 11</a><br>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 06</a>
+<a href="http://157.201.194.254/~jkalldre/index.html" title="Incomplete link">Assignment 12</a><br>
+-->
+
+
+
+</body>
+</html>

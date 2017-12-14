@@ -1,0 +1,60 @@
+/***********************************************************************
+* Program:
+*    Test 3, Reverse a File          (e.g. Assignment 01, Hello World)  
+*    Brother Grimmett, CS124
+* Author:
+*    Jacob Alldredge
+* Summary:
+*    This program will read a text file and print it in reverse!
+*    How confusing!
+*
+*    Estimated:  0.0 hrs   
+*    Actual:     0.0 hrs
+*      Please describe briefly what was the most difficult part.
+************************************************************************/
+
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int readFile(char fileName[], char text[][256]);
+void getFileName(char fileName[]);
+void display();
+
+/**********************************************************************
+ * Add text here to describe what the function "main" does. Also don't forget
+ * to fill this out with meaningful text or YOU WILL LOSE POINTS.
+ ***********************************************************************/
+int main()
+{
+   char fileName[256];
+   char text[500][256];
+   
+   getFileName(fileName);
+   int size = readFile(fileName, text);
+   
+   return 0;
+}
+
+void getFileName(char fileName[])
+{
+   cout << "Please enter the filename: ";
+   cin >> fileName;
+   return;
+}
+
+int readFile(char fileName[], char text[][256])
+{
+   int i = 0;
+   ifstream fin(fileName);
+
+   if (fin.fail())
+      return -1;
+
+   while (fin >> text[i])
+      i++;
+
+   fin.close();
+
+   return i;
+}

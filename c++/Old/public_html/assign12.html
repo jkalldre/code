@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <script src="assign12jquery-1.12.2.min.js" type="text/javascript"></script>
+  <link rel="stylesheet" type="text/css" href="assign12.css"/>
+  <script>
+
+/* $(document).ready(function(){
+   $("#clear").click(function(){
+     $("#reg").find("tr:gt(0)").remove();
+   });
+ });*/
+  </script>
+  <title>Piano Festival</title>
+</head>
+<body onload="updateWeb();">
+  <div class="bod">
+    <h1>Piano Festival!</h1>
+    <form>
+      <fieldset>
+        <legend>Register:</legend>
+        <table>
+          <tr><td>Performance Type: <select id="type" onchange="checkType();">
+            <option value="Solo" selected="selected">Solo</option>
+            <option value="Duet">Duet</option>
+            <option value="Concerto">Concerto</option>
+          </select></td><td class="hide"><label>Second Student Info:</label></td></tr>
+          <tr><td><label>First Name: </label><input id="fname" type="text" name="fname"/></td>
+            <td class="hide"><label>First Name: </label><input type="text" name="fname"/></td></tr>
+            <tr><td><label>Last Name: </label><input type="text" name="lname"/></td>
+              <td class="hide"><label>Last Name: </label><input type="text" name="lname"/></td></tr>
+              <tr><td><label>Student I#: </label><input type="text" name="Inum" maxlength="9"/></td>
+                <td class="hide"><label>Student I#: </label><input type="text" name="Inum" maxlength="9"/></td></tr>
+                <tr><td><label>Skill Level: </label><select name="skill">
+                  <option value="Beginner">Beginner</option>
+                  <option value="Intermediate">Intermediate</option>
+                  <option value="Pre-Advanced">Pre-Advanced</option>
+                  <option value="Advanced">Advanced</option>
+                </select></td></tr>
+                <tr><td><label>Instrument: </label><select name="instr">
+                  <option value="Piano">Piano</option>
+                  <option value="Voice">Voice</option>
+                  <option value="String">String</option>
+                  <option value="Organ">Organ</option>
+                  <option value="Other">Other</option>
+                </select></td></tr>
+                <tr><td><label>Location: </label><select name="loc">
+                  <option value="Snow">Snow</option>
+                  <option value="Austin">Austin</option>
+                  <option value="Hinckley">Hinckley</option>
+                  <option value="Spori">Spori</option>
+                  <option value="Smith">Smith</option>
+                  <option value="Romney">Romney</option>
+                </select></td></tr>
+                <tr><td><label>Room #: </lable><input type="text" name="room" size="5"/></td></tr>
+                  <tr><td><label>Time Slot: <select name="time">
+                    <option value="8:00 am">8:00 am</option>
+                    <option value="8:15 am">8:15 am</option>
+                    <option value="8:30 am">8:30 am</option>
+                    <option value="8:45 am">8:45 am</option>
+                    <option value="9:00 am">9:00 am</option>
+                    <option value="9:15 am">9:15 am</option>
+                    <option value="9:30 am">9:30 am</option>
+                    <option value="9:45 am">9:45 am</option>
+                    <option value="10:00 am">10:00 am</option>
+                    <option value="10:15 am">10:15 am</option>
+                    <option value="10:30 am">10:30 am</option>
+                    <option value="10:45 am">10:45 am</option>
+                    <option value="11:00 am">11:00 am</option>
+                  </select></td></tr>
+                  <tr><td><button id="clear" type="reset" name="clear">Clear</button>
+                    <button id="register" type="button" name="register" onclick="validate();">Register</button></td></tr>
+                  </table>
+                </fieldset>
+              </form>
+            </div>
+            <div class="bod" style="background-color:lightblue;">
+              <h1>Registered</h1>
+              <table id="reg" class="reg">
+                <tr style="background-color:lightgreen;"><th>Performance</th><th>Name(s)</th><th>I#</th>
+                  <th>Skill</th><th>Instrument</th><th>Location</th><th>Room</th>
+                  <th>Time</th></tr>
+                  <div id="fileBody"></div>
+                </table>
+              </div>
+            </body>
+            </html>

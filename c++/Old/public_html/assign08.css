@@ -1,0 +1,40 @@
+body {
+  border: 5px solid black;
+  border-radius: 10px;
+  margin:auto;
+  width:45em;
+  padding:2em;
+}
+
+h1 {
+  text-align:center;
+}
+
+textarea {
+  resize: none;
+  margin:0 2em;
+  background-color:#73DCE6;
+  font-size:2em;
+
+  padding: 0 3em;
+}
+
+.d0 {
+  text-align: center;
+  margin:auto;
+  width:22.5em;
+}
+
+#countries {
+  position:relative;
+  left:22em;
+}
+
+#info {
+  position:relative;
+  left:-7em;
+}
+
+#url {
+  display:inline-block;
+}

@@ -1,0 +1,77 @@
+/***********************************************************************
+* Program:
+*    Assignment ex15, Decision Fct          (e.g. Assignment 01, Hello World)  
+*    Brother Grimmett, CS124
+* Author:
+*    Jacob Alldredge
+* Summary: 
+*    Enter a brief description of your program here!  Please note that if
+*    you do not take the time to fill out this block, YOU WILL LOSE POINTS.
+*    Before you begin working, estimate the time you think it will
+*    take you to do the assignment and include it in this header block.
+*    Before you submit the assignment include the actual time it took.
+*
+*    Estimated:  0.0 hrs   
+*    Actual:     0.0 hrs
+*      Please describe briefly what was the most difficult part.
+************************************************************************/
+
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+bool qualify(double income);
+bool lessQualified(double income);
+
+/**********************************************************************
+ * Add text here to describe what the function "main" does. Also don't forget
+ * to fill this out with meaningful text or YOU WILL LOSE POINTS.
+ ***********************************************************************/
+int main()
+{
+   double income = 0;
+   int numChildren = 0;
+   double childTax = 0;
+
+   cout.setf(ios::fixed);
+   cout.setf(ios::showpoint);
+   cout.precision(2);
+   
+   // prompt for user input
+   cout << endl;
+   cout << "=========================\n";
+   cout << "What is your annual income? $ ";
+   cin >> income;
+   
+
+   cout << "How many children do you have? ";
+   cin >> numChildren;
+
+   if (qualify(income))  
+      childTax = 1000.00 * (float)numChildren;
+   else if (lessQualified(income))
+      childTax = 1000 - ((income - 110000.00) * .05) * (float)numChildren;
+   else
+      cout << "Your income is screwed up!\n"; 
+
+   if (childTax < 0)
+      childTax = 0;
+   
+   cout << "Child Tax Credit: $ " << childTax << endl;
+   cout << "=========================\n";
+   cout << endl;
+   
+   
+   return 0;
+}
+
+bool qualify(double income)
+{
+   return (income < 110000.00);    
+}
+
+bool lessQualified(double income)
+{
+   return (income > 110000.00);
+}

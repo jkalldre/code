@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <title>Mortgage Calc</title>
+  <link rel="stylesheet" type="text/css" href="assign04.css"/>
+  <script src="assign04.js" type="text/javascript"></script>
+</head>
+<body class="wrap">
+  <a href="index.html" style="float:right;">CS213 Assignments</a>
+  <div>
+    <form onreset="reset('display'), hide()">
+      <h1>Calculate Your Mortgage!</h1>
+      <table>
+        <tr>
+          <td>APR:</td>
+          <td><input type="text" name="APR"
+            placeholder="Annual Percentage Rate" id="apr" onchange="canCalc()"
+            autofocus required/><br/></td>
+          </tr>
+          <tr>
+            <td>Loan Term (yrs):</td>
+            <td><input type="text" name="LoanTerm" onchange="canCalc()"
+              placeholder="Loan Term (yrs)" id="loanT" required/><br/></td>
+            </tr>
+            <tr>
+              <td>Loan Amount:</td>
+              <td><input type="text" name="LoneAmount" onchange="canCalc()"
+                placeholder="Loan Amount" id="loanA" required><br/></td>
+              </tr>
+              <tr>
+                <td>Monthly Payment: $</td>
+                <td><p id="display"></p></td>
+              </tr>
+              <tr>
+                <td><button type="reset" value="reset"/>Reset</button></td>
+                <td><button type="button" onclick="calc()">Calculate Payment Button</button></td>
+              </tr>
+            </table>
+          </form>
+          <div id="err">
+            <p id="er"></p>
+            <button id="hid" type="button" onclick="hide()">x</button>
+          </div>
+        </div>
+      </body>
+      </html>

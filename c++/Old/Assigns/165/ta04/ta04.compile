@@ -1,0 +1,30 @@
+
+# mkdir ta04.tar.dir 2>> ta04.compile 
+
+# cp ta04.tar ta04.tar.dir/tar.tar 2>> ta04.compile 
+
+# tar -xf  ta04.tar.dir/tar.tar -C ta04.tar.dir 2>> ta04.compile >> ta04.compile 
+
+# make a.out -C ta04.tar.dir 2>> ta04.compile >> ta04.compile 
+make: Entering directory `/home/all15019/check04b/ta04/ta04.tar.dir'
+g++ rational.cpp ta04.cpp
+make: Leaving directory `/home/all15019/check04b/ta04/ta04.tar.dir'
+
+# mv ta04.tar.dir/a.out /tmp/testbed/compileDirf172c6a0-3e07-49ec-ac3f-b03f230450b0/ta04 2>> ta04.compile >> ta04.compile 
+
+# rm -rf ta04.tar.dir 2>> ta04.compile 
+
+# mkdir ta04.tar.dir 2>> ta04.compile 
+
+# cp ta04.tar ta04.tar.dir/tar.tar 2>> ta04.compile 
+
+# tar -xf  ta04.tar.dir/tar.tar -C ta04.tar.dir 2>> ta04.compile >> ta04.compile 
+
+# make a.out -C ta04.tar.dir 2>> ta04.compile >> ta04.compile 
+make: Entering directory `/home/all15019/check04b/ta04/ta04.tar.dir'
+g++ rational.cpp ta04.cpp
+make: Leaving directory `/home/all15019/check04b/ta04/ta04.tar.dir'
+
+# mv ta04.tar.dir/a.out /tmp/testbed/compileDir6bd6da9f-0880-4bf2-ba4e-03602d387973/ta04 2>> ta04.compile >> ta04.compile 
+
+# rm -rf ta04.tar.dir 2>> ta04.compile 

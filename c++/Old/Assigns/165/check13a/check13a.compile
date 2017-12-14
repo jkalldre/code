@@ -1,0 +1,51 @@
+
+# mkdir check13a.tar.dir 2>> check13a.compile 
+
+# cp check13a.tar check13a.tar.dir/tar.tar 2>> check13a.compile 
+
+# tar -xf  check13a.tar.dir/tar.tar -C check13a.tar.dir 2>> check13a.compile >> check13a.compile 
+
+# make a.out -C check13a.tar.dir 2>> check13a.compile >> check13a.compile 
+make: Entering directory `/home/all15019/check13a/check13a.tar.dir'
+g++ -c numberList.cpp
+g++ -c check13a.cpp
+g++ numberList.o check13a.o
+make: Leaving directory `/home/all15019/check13a/check13a.tar.dir'
+
+# mv check13a.tar.dir/a.out /tmp/testbed/compileDirec92fe06-68af-4f71-91a2-0683a72fc69a/check13a 2>> check13a.compile >> check13a.compile 
+
+# rm -rf check13a.tar.dir 2>> check13a.compile 
+
+# mkdir check13a.tar.dir 2>> check13a.compile 
+
+# cp check13a.tar check13a.tar.dir/tar.tar 2>> check13a.compile 
+
+# tar -xf  check13a.tar.dir/tar.tar -C check13a.tar.dir 2>> check13a.compile >> check13a.compile 
+
+# make a.out -C check13a.tar.dir 2>> check13a.compile >> check13a.compile 
+make: Entering directory `/home/all15019/check13a/check13a.tar.dir'
+g++ -c numberList.cpp
+g++ -c check13a.cpp
+g++ numberList.o check13a.o
+make: Leaving directory `/home/all15019/check13a/check13a.tar.dir'
+
+# mv check13a.tar.dir/a.out /tmp/testbed/compileDircd9a23cc-3dd9-46cb-abf2-27d53620242e/check13a 2>> check13a.compile >> check13a.compile 
+
+# rm -rf check13a.tar.dir 2>> check13a.compile 
+
+# mkdir check13a.tar.dir 2>> check13a.compile 
+
+# cp check13a.tar check13a.tar.dir/tar.tar 2>> check13a.compile 
+
+# tar -xf  check13a.tar.dir/tar.tar -C check13a.tar.dir 2>> check13a.compile >> check13a.compile 
+
+# make a.out -C check13a.tar.dir 2>> check13a.compile >> check13a.compile 
+make: Entering directory `/home/all15019/check13a/check13a.tar.dir'
+g++ -c numberList.cpp
+g++ -c check13a.cpp
+g++ numberList.o check13a.o
+make: Leaving directory `/home/all15019/check13a/check13a.tar.dir'
+
+# mv check13a.tar.dir/a.out /tmp/testbed/compileDir0be82112-0eda-4828-abcc-cf86a6e1eb4f/check13a 2>> check13a.compile >> check13a.compile 
+
+# rm -rf check13a.tar.dir 2>> check13a.compile 

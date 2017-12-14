@@ -1,0 +1,525 @@
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir62bb011d-e200-4e28-aaf6-cf015a042c29/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir0e86ddf6-9724-4171-b412-8cc3e1afa667/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir2aec4422-1af0-4bd2-9f1c-58ef55069dea/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir1dfa643f-7119-4cd5-9737-7a932619fcc6/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir6a73f0b9-5938-4c58-ae4d-a5f3086a2727/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir8b4a9661-144e-4076-889c-ce432167cb80/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir0fc59db7-3780-4b67-973f-61aa54f023c8/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir6fd3dc57-e858-4e97-9d18-367664c35b8c/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir58a26ec7-fb36-46b7-be7c-9d3577d57cda/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir8c34c52e-8546-483d-a37f-18fa80716e4d/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir894d682b-f8ca-4bb5-9db8-3b14ca2b419e/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir483b337a-048c-4cbf-b752-6c21a74310e6/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir0142b4d8-a3bf-4dca-8a21-36c8bfa3e524/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDird79cd847-104a-443b-818a-e04ee1e035a1/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir24f305c9-f4f8-429c-97cd-2890396ddcb9/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir412dd881-8b45-4de1-8687-1f028d570278/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDira3f9df26-02b8-4128-b471-4f3722af0e94/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir9631b515-5562-4bf0-9fa6-c2c1fa7a00dd/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir4fe8308d-bf32-45e1-86db-6cc7fbf16453/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDirbd6ddcec-9ad3-4f04-834f-504859021c52/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDirca7cd188-3e09-4895-aac6-6389bd1dfc26/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDirad265e74-c1bb-4d04-bc1c-bad7c9c317e4/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir0312c450-69da-40a3-91c3-134d4c366e91/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir91d103e9-c4cb-4d80-b93a-c51a93b465aa/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDirdf53baaf-1dac-4890-bb8e-4ccf8b6a28e9/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir9040093f-56db-447c-a990-daa53551ad80/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDire4eeb9cf-4dd0-4a8f-ba99-b2862b24f3d7/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir9dc52853-866a-4e1e-9e36-8aa67e427f5b/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDira02643e5-7996-4bbd-86cb-e2068756c3d5/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir5bd24d9d-5ee0-405e-8e73-341981a58dd2/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDirf08e9ce6-b86f-4fa6-8fca-73709ca39e92/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir07958dfa-eccf-49dd-80f7-41fabab29413/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir3b1ce6aa-4e68-48d0-848d-192ed1c35d4a/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDir2225ccc4-6121-4657-8688-5802b4dfe80e/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 
+
+# mkdir assign05.tar.dir 2>> assign05.compile 
+
+# cp assign05.tar assign05.tar.dir/tar.tar 2>> assign05.compile 
+
+# tar -xf  assign05.tar.dir/tar.tar -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+
+# make a.out -C assign05.tar.dir 2>> assign05.compile >> assign05.compile 
+make: Entering directory `/home/all15019/assign05/assign05.tar.dir'
+g++ product.cpp address.cpp customer.cpp order.cpp assign05.cpp
+make: Leaving directory `/home/all15019/assign05/assign05.tar.dir'
+
+# mv assign05.tar.dir/a.out /tmp/testbed/compileDirf8f4d377-4266-46f3-937f-0608964c0d9b/assign05 2>> assign05.compile >> assign05.compile 
+
+# rm -rf assign05.tar.dir 2>> assign05.compile 

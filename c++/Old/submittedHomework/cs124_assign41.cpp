@@ -1,0 +1,72 @@
+/***********************************************************************
+* Program:
+*    Assignment 41, Allocating Memory      (e.g. Assignment 01, Hello World)  
+*    Brother Grimmett, CS124
+* Author:
+*    Jacob Alldredge
+* Summary: 
+*    Enter a brief description of your program here!  Please note that if
+*    you do not take the time to fill out this block, YOU WILL LOSE POINTS.
+*    Before you begin working, estimate the time you think it will
+*    take you to do the assignment and include it in this header block.
+*    Before you submit the assignment include the actual time it took.
+*
+*    Estimated:  0.0 hrs   
+*    Actual:     0.0 hrs
+*      Please describe briefly what was the most difficult part.
+************************************************************************/
+
+#include <iostream>
+using namespace std;
+
+int getSize();
+void getString(char string[], int stringSize);
+void display(char string[], int stringSize);
+
+/**********************************************************************
+ * Add text here to describe what the function "main" does. Also don't forget
+ * to fill this out with meaningful text or YOU WILL LOSE POINTS.
+ ***********************************************************************/
+int main()
+{
+   int stringSize = getSize();
+   char string[stringSize + 1];
+
+   if (stringSize != -1)
+   {
+      getString(string, stringSize);
+      display(string, stringSize);
+   }
+   else
+      cout << "Allocation failure!\n";
+   
+   return 0;
+}
+
+int getSize()
+{
+   int size = 0;
+   
+   cout << "Number of characters: ";
+   cin >> size;
+   cin.ignore();
+
+   if (size < 0)
+      return -1;
+   
+   return size;
+}
+
+void getString(char string[], int stringSize)
+{
+   cout << "Enter Text: ";
+   cin.getline(string, stringSize + 1);
+}
+
+void display(char string[], int stringSize)
+{
+   cout << "Text: " << string << endl;
+
+   //for (int i = 0; i < stringSize; i++)
+      
+}

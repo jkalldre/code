@@ -1,0 +1,30 @@
+
+# mkdir check04b.tar.dir 2>> check04b.compile 
+
+# cp check04b.tar check04b.tar.dir/tar.tar 2>> check04b.compile 
+
+# tar -xf  check04b.tar.dir/tar.tar -C check04b.tar.dir 2>> check04b.compile >> check04b.compile 
+
+# make a.out -C check04b.tar.dir 2>> check04b.compile >> check04b.compile 
+make: Entering directory `/home/all15019/check04b/check04b.tar.dir'
+g++ date.cpp check04b.cpp
+make: Leaving directory `/home/all15019/check04b/check04b.tar.dir'
+
+# mv check04b.tar.dir/a.out /tmp/testbed/compileDir83cb5a4a-9fa0-40b3-a0ad-33ae391e48b7/check04b 2>> check04b.compile >> check04b.compile 
+
+# rm -rf check04b.tar.dir 2>> check04b.compile 
+
+# mkdir check04b.tar.dir 2>> check04b.compile 
+
+# cp check04b.tar check04b.tar.dir/tar.tar 2>> check04b.compile 
+
+# tar -xf  check04b.tar.dir/tar.tar -C check04b.tar.dir 2>> check04b.compile >> check04b.compile 
+
+# make a.out -C check04b.tar.dir 2>> check04b.compile >> check04b.compile 
+make: Entering directory `/home/all15019/check04b/check04b.tar.dir'
+g++ date.cpp check04b.cpp
+make: Leaving directory `/home/all15019/check04b/check04b.tar.dir'
+
+# mv check04b.tar.dir/a.out /tmp/testbed/compileDir2c224af2-b626-49f7-8dd2-f9c2bdbe6703/check04b 2>> check04b.compile >> check04b.compile 
+
+# rm -rf check04b.tar.dir 2>> check04b.compile 

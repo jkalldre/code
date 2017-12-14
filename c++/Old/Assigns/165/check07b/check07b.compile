@@ -1,0 +1,18 @@
+
+# mkdir check07b.tar.dir 2>> check07b.compile 
+
+# cp check07b.tar check07b.tar.dir/tar.tar 2>> check07b.compile 
+
+# tar -xf  check07b.tar.dir/tar.tar -C check07b.tar.dir 2>> check07b.compile >> check07b.compile 
+
+# make a.out -C check07b.tar.dir 2>> check07b.compile >> check07b.compile 
+make: Entering directory `/home/all15019/check07b/check07b.tar.dir'
+g++ -c voxel.cpp
+g++ -c world.cpp
+g++ -c check07b.cpp
+g++ voxel.o world.o check07b.o
+make: Leaving directory `/home/all15019/check07b/check07b.tar.dir'
+
+# mv check07b.tar.dir/a.out /tmp/testbed/compileDiradae6325-cb92-409c-924e-01fa0891949d/check07b 2>> check07b.compile >> check07b.compile 
+
+# rm -rf check07b.tar.dir 2>> check07b.compile 

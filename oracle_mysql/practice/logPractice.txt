@@ -1,0 +1,42 @@
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+        ID NAME                   AGE STATE                                     
+---------- --------------- ---------- -----                                     
+         1 Jake                    23 TX                                        
+         2 Daniel                  23 SC                                        
+         3 Colleen                 18 TX                                        
+         4 Tara                    23 CA                                        
+
+
+        ID NAME                   AGE STATE                                     
+---------- --------------- ---------- -----                                     
+         3 Colleen                 18 TX                                        
+         2 Daniel                  23 SC                                        
+         1 Jake                    23 TX                                        
+         4 Tara                    23 CA                                        
+
+
+NAME            STATE                                                           
+--------------- -----                                                           
+Jake            TX                                                              
+Colleen         TX                                                              
+Daniel          SC                                                              
+Tara            CA                                                              
+
+SELECT name, state
+       *
+ERROR at line 1:
+ORA-00979: not a GROUP BY expression 
+
+

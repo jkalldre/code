@@ -1,0 +1,30 @@
+
+# mkdir check05a.tar.dir 2>> check05a.compile 
+
+# cp check05a.tar check05a.tar.dir/tar.tar 2>> check05a.compile 
+
+# tar -xf  check05a.tar.dir/tar.tar -C check05a.tar.dir 2>> check05a.compile >> check05a.compile 
+
+# make a.out -C check05a.tar.dir 2>> check05a.compile >> check05a.compile 
+make: Entering directory `/home/all15019/check05a/check05a.tar.dir'
+g++ money.cpp check05a.cpp
+make: Leaving directory `/home/all15019/check05a/check05a.tar.dir'
+
+# mv check05a.tar.dir/a.out /tmp/testbed/compileDir53b975ab-4f1e-4d6d-815b-351cc0f05958/check05a 2>> check05a.compile >> check05a.compile 
+
+# rm -rf check05a.tar.dir 2>> check05a.compile 
+
+# mkdir check05a.tar.dir 2>> check05a.compile 
+
+# cp check05a.tar check05a.tar.dir/tar.tar 2>> check05a.compile 
+
+# tar -xf  check05a.tar.dir/tar.tar -C check05a.tar.dir 2>> check05a.compile >> check05a.compile 
+
+# make a.out -C check05a.tar.dir 2>> check05a.compile >> check05a.compile 
+make: Entering directory `/home/all15019/check05a/check05a.tar.dir'
+g++ money.cpp check05a.cpp
+make: Leaving directory `/home/all15019/check05a/check05a.tar.dir'
+
+# mv check05a.tar.dir/a.out /tmp/testbed/compileDir367b6642-c25c-43c3-b6c7-94427c116d12/check05a 2>> check05a.compile >> check05a.compile 
+
+# rm -rf check05a.tar.dir 2>> check05a.compile 

@@ -1,0 +1,1411 @@
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDird94480d4-b891-4481-aa69-210d4b28cda2/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirf28cbf8a-98f9-4ad8-8501-036228148a52/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDira8d928b0-eda0-475f-8801-dd671aa2027f/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDird55ff6a8-6e9a-404a-a6a6-4238f951af92/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir4978f6bb-35a6-4cb1-920f-3a5906274cdd/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirfac7715c-76e8-4e80-9229-da4ae1deb189/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir33fb6344-0e2b-4d82-be6a-b9efc8c4faa8/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir6a19decb-fdcb-4e08-a46e-ac005ced7280/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirae5b20bf-bbff-44a0-b770-73af8199d7e4/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDire06e20cb-abe5-487c-bff5-8c6b2753c6c2/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir1c28113c-8402-4092-b352-ae8c82b0ad37/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDira3505019-4172-4d68-88fa-13a0d381269a/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir8d198a8f-46ed-45ba-b4ab-3594ea608681/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir3b0afff9-5bc6-40b4-a3f0-94907a16b66f/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir07be83b4-761e-40df-a353-cbae1fe79cdd/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDire39b18dc-2178-4bfa-8ef4-f197f4f9f697/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir1f6bb468-58cb-4659-98ca-35751dd4a2d4/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir5db7e5b7-0739-4368-9297-e951386cbdec/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir0d722b3a-d58f-4609-a82d-1e7d714dcf3d/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir427bd6df-da9c-4df7-a664-fc3a03664222/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir53d46534-3712-4f16-9670-e88c262dab20/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir32055769-b237-49c5-9129-07bc40abe272/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirdf9a6083-3ae6-4f31-afd2-866befe7783e/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir9b77be90-570f-41f7-b0f8-4930fc425104/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir1c1b7c92-baed-4967-a5e7-7899b058e602/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDire709853a-7f90-413f-ae11-225408084b1e/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDird7583e48-d022-489f-8359-bd4f370de8eb/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir1ae84a0b-f729-4cb3-be26-e2a3cc36c37c/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir010cb9f1-e86f-4a19-be2d-b602e01cc513/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirc0704419-fc53-461d-aa6b-93f14e0a67ee/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir678ccbf1-7c71-498b-8324-1cb60582ccd7/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir1c8794d9-f26e-4e93-8918-00a07ecf2c46/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirc232437e-47b9-41c4-a35b-a43a81c7da61/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDira4418ca2-797f-4863-a6b7-da4630661460/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir945d4e36-0bb4-4e47-bffb-24c06ea60b89/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDird9121fc3-8ae4-4147-8ef0-96693c09a905/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirf97c74f5-e4a5-4e20-8962-8a73f13545e2/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir55eaa9aa-7363-49ac-9fa4-cb30ef4d5db0/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir0bb46f7a-ea53-402d-9b86-c6ad42acca53/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirecb93667-72c9-41c3-86d1-ca494f7740f3/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir8a69f537-258f-4a98-afbc-939fec647568/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDird85c4ec2-a7e2-4c5c-9a46-5b8912fd2190/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir4dc8dd60-c443-4dad-9d38-8dccde00c1aa/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir28df69d7-dd8f-4e47-804c-f0dacea5c7bd/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir2d380f88-ad75-47a6-a238-324417229c2c/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir40769f54-08c1-4ae0-8aef-07495b0bce97/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDire8b0e244-d18e-43d8-8903-c83ddfb8e9ed/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir2bb1e074-b80c-4656-957d-3efb7c129322/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir7d3ed1cd-be62-4e5f-97a9-e2b2ec56a8a2/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir78ee7252-a0ba-47c4-8e23-3435dbfb1753/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirdecef12c-61ca-427b-9a53-37b1803d8f67/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir602cbe7c-8166-4c66-a10c-da2604723bf4/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir9e4fa89f-e582-43d7-abfa-db4cbe405723/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir3f5e07f7-ef93-4705-aba2-f9538d789710/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirb2ef7ed5-48c8-428f-8634-4e1f8124c8e4/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir42d4cac5-1007-403d-b3b6-282bbf5353a2/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir12612fae-a3f4-44e2-b3bc-843d74432997/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir43d86a2e-3e4d-4f10-9598-f837bd2b4085/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir9f05b595-c211-459e-a083-bcf0f189bbb4/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirdcfb221e-ca9e-4d5b-83e7-3902d1a5998d/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir60133abb-0341-4172-a9f1-09de2924b2e0/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir64df6260-b271-4fa2-8db2-42a4c7abdc82/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir202dc800-af5d-47ec-8d75-13dc8a6840d5/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirec7f5964-c1e0-4073-bda7-2534300d6ea8/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDire15449c0-5ade-4afd-9b9b-eabe95ef0a5f/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir8299319d-db1c-4dc6-be18-bb80bd6a71ba/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir5523e64f-a2db-40b3-b06a-cbbca630cba3/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDire99e1dda-10ae-45c3-889a-5bab77c50351/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir53fb1a89-5239-41d9-8600-5cc10219197a/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir2e8c8233-3446-4b68-9818-98edd05d083b/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDird3aca61d-c7a1-4b83-bb40-1380d85b32f7/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirfe1f51ff-c5e2-4998-8e7b-f24c98c3a921/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir4fa4dd3f-72c7-4fea-b1c3-a46c7c33cb21/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirb41df1cf-7842-49ea-9088-aee38530efb5/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir11ea61b3-3cd7-4406-8da5-7b34d9b514dc/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir7e948530-ce78-44e8-8f3d-5c27a531206b/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir4f619138-6a6c-4d7e-bf3e-ae8b39ab53c5/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir83a9641c-59a3-4280-b54f-9cbf831afd5f/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir983aa2fa-9d6e-4bf5-96f9-d9d14b1222ab/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDirb483d21b-3118-47f5-a554-f084f34d3923/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDir7002ccfb-df36-4732-8d64-31173f4ee044/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDira54f0d23-eb19-4a33-a115-2d485646b2a8/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 
+
+# mkdir week01.tar.dir 2>> week01.compile 
+
+# cp week01.tar week01.tar.dir/tar.tar 2>> week01.compile 
+
+# tar -xf  week01.tar.dir/tar.tar -C week01.tar.dir 2>> week01.compile >> week01.compile 
+
+# make a.out -C week01.tar.dir 2>> week01.compile >> week01.compile 
+make: Entering directory `/home/all15019/week01/week01.tar.dir'
+g++ -c week01.cpp
+g++ -o a.out week01.o 
+tar -cf week01.tar vector.h week01.cpp makefile
+make: Leaving directory `/home/all15019/week01/week01.tar.dir'
+
+# mv week01.tar.dir/a.out /tmp/testbed/compileDircd276013-093f-43b2-808a-084262dee47b/week01 2>> week01.compile >> week01.compile 
+
+# rm -rf week01.tar.dir 2>> week01.compile 

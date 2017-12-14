@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bsa SYSTEM "assign06.dtd">
+<?xml-stylesheet type="text/xsl" href="assign07.xsl"?>
+<bsa>
+  <council name="Black Bear">
+    <troop troopNumber="6565" unitName="Urso">
+      <scout>
+        <firstName>Jake</firstName>
+        <lastName>Alldredge</lastName>
+        <phone>409-555-5200</phone>
+        <address>
+          <street>141 West 1 South Apt 2219</street>
+          <city>Rexburg</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="07-07-2009">Life</rank>
+        <meritBadge dateEarned="01-01-2007">First Aid</meritBadge>
+        <meritBadge dateEarned="02-01-2007">Swimming</meritBadge>
+        <meritBadge dateEarned="03-01-2007">Life Saving</meritBadge>
+        <meritBadge dateEarned="04-01-2007">Environmental Science</meritBadge>
+        <meritBadge dateEarned="05-01-2007">Camping</meritBadge>
+        <meritBadge dateEarned="06-01-2007">Cooking</meritBadge>
+        <meritBadge dateEarned="07-01-2007">Safety</meritBadge>
+        <meritBadge dateEarned="08-01-2007">Fist Fighting</meritBadge>
+        <meritBadge dateEarned="09-01-2007">Cat Wrangling</meritBadge>
+        <meritBadge dateEarned="10-01-2007">Totalitarian Dictator</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Keaton</firstName>
+        <lastName>Moore</lastName>
+        <phone>409-224-7878</phone>
+        <address>
+          <street>141 West 1 South Apt 2219</street>
+          <city>Rexburg</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="02-21-2016">Tenderfoot</rank>
+        <meritBadge dateEarned="01-01-2016">First Aid</meritBadge>
+        <meritBadge dateEarned="05-16-2012">Swimming</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Jonny</firstName>
+        <lastName>Horan</lastName>
+        <phone>786-589-5624</phone>
+        <address>
+          <street>141 West 1 South Apt 2219</street>
+          <city>Rexburg</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="01-04-2005">Eagle</rank>
+        <meritBadge dateEarned="01-04-2004">Animal Taming</meritBadge>
+        <meritBadge dateEarned="02-04-2004">Captain Amerithon</meritBadge>
+        <meritBadge dateEarned="03-04-2004">Polar Bear Plunge</meritBadge>
+        <meritBadge dateEarned="04-04-2004">Crackalackin</meritBadge>
+        <meritBadge dateEarned="05-04-2004">Where Am I Right Now</meritBadge>
+        <meritBadge dateEarned="06-04-2004">Stalker</meritBadge>
+        <meritBadge dateEarned="07-04-2004">Fecal Matter Detective</meritBadge>
+        <meritBadge dateEarned="08-04-2004">Lint Licker</meritBadge>
+        <meritBadge dateEarned="09-04-2004">Rainbow Rider</meritBadge>
+        <meritBadge dateEarned="10-04-2004">Heisting</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Phil</firstName>
+        <lastName>Henderson</lastName>
+        <phone>456-987-1212</phone>
+        <address>
+          <street>141 West 1 South Apt 2219</street>
+          <city>Rexburg</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="07-24-2009">Eagle</rank>
+        <meritBadge dateEarned="01-17-2008">Hog Tying</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Mattress Flipping</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Canoeing</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Flower Arranging</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Yosemite</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Danny</firstName>
+        <lastName>Hermano</lastName>
+        <phone>208-256-2332</phone>
+        <address>
+          <street>141 West 1 South Apt 2219</street>
+          <city>Rexburg</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="02-17-2010">1stClass</rank>
+        <meritBadge dateEarned="01-17-2008">Hog Riding</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Log Splitting</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Ramp Building</meritBadge>
+      </scout>
+    </troop>
+    <troop troopNumber="171717" unitName="Ursinho">
+      <scout>
+        <firstName>Ray</firstName>
+        <lastName>Charles</lastName>
+        <phone>458-589-5689</phone>
+        <address>
+          <street>123 Fake Road</street>
+          <city>LaLaVille</city>
+          <state>Rhode Island</state>
+        </address>
+        <rank dateEarned="05-24-2013">Star</rank>
+        <meritBadge dateEarned="01-17-2008">Roasting</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Cookie Cutting</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Whining</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Lantern Reading</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Robin</firstName>
+        <lastName>Williams</lastName>
+        <phone>745-589-2626</phone>
+        <address>
+          <street>546 Wing Blvd</street>
+          <city>Yipps</city>
+          <state>California</state>
+        </address>
+        <rank dateEarned="02-14-2009">Life</rank>
+        <meritBadge dateEarned="01-17-2008">Cake Karate</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Knot Tying</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Pudding Tasting</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Cotten Weaving</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Rationing</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Derek</firstName>
+        <lastName>Zoolander</lastName>
+        <phone>474-784-5824</phone>
+        <address>
+          <street>9898 Cake Walk</street>
+          <city>San Fran</city>
+          <state>California</state>
+        </address>
+        <rank dateEarned="04-23-2013">Tenderfoot</rank>
+        <meritBadge dateEarned="01-17-2008">Every Merit Badge Earned</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Bob</firstName>
+        <lastName>Saggot</lastName>
+        <phone>454-787-5656</phone>
+        <address>
+          <street>123 Lake Lane</street>
+          <city>Vivin</city>
+          <state>South Dakota</state>
+        </address>
+        <rank dateEarned="12-24-2000">Star</rank>
+        <meritBadge dateEarned="07-14-1999">Courtship</meritBadge>
+        <meritBadge dateEarned="07-14-1999">Space Travel</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Ramon</firstName>
+        <lastName>Reagon</lastName>
+        <phone>444-555-6565</phone>
+        <address>
+          <street>43444 Hardy Highway</street>
+          <city>Sin</city>
+          <state>Florida</state>
+        </address>
+        <rank dateEarned="08-17-2000">2ndClass</rank>
+        <meritBadge dateEarned="07-14-1999">Cannon Mastery</meritBadge>
+        <meritBadge dateEarned="07-14-1999">World Traveler</meritBadge>
+        <meritBadge dateEarned="07-14-1999">Ruckuss Making</meritBadge>
+      </scout>
+    </troop>
+  </council>
+  <council name="Brown Bear">
+    <troop troopNumber="770" unitName="Cub">
+      <scout>
+        <firstName>Sam</firstName>
+        <lastName>Ross</lastName>
+        <phone>409-565-5200</phone>
+        <address>
+          <street>1400 West Street</street>
+          <city>Vidor</city>
+          <state>Texas</state>
+        </address>
+        <rank dateEarned="07-07-2004">Eagle</rank>
+        <meritBadge dateEarned="01-01-2003">First Aid</meritBadge>
+        <meritBadge dateEarned="02-01-2003">Swimming</meritBadge>
+        <meritBadge dateEarned="10-01-2003">Totalitarian Dictator</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Randel</firstName>
+        <lastName>Robin</lastName>
+        <phone>787-998-7878</phone>
+        <address>
+          <street>147 LiLac Road</street>
+          <city>Nac</city>
+          <state>Texas</state>
+        </address>
+        <rank dateEarned="02-21-2016">Tenderfoot</rank>
+        <meritBadge dateEarned="01-01-2016">Tree Climbing</meritBadge>
+        <meritBadge dateEarned="05-16-2012">Swimming</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Nolan</firstName>
+        <lastName>Moore</lastName>
+        <phone>222-748-5624</phone>
+        <address>
+          <street>141 West 1 South Apt 2219</street>
+          <city>Rexburg</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="01-04-2005">Eagle</rank>
+        <meritBadge dateEarned="01-04-2004">Animal Taming</meritBadge>
+        <meritBadge dateEarned="02-04-2004">Captain Amerithon</meritBadge>
+        <meritBadge dateEarned="03-04-2004">Polar Bear Plunge</meritBadge>
+        <meritBadge dateEarned="04-04-2004">Crackalackin</meritBadge>
+        <meritBadge dateEarned="05-04-2004">Where Am I Right Now</meritBadge>
+        <meritBadge dateEarned="12-04-2004">Hair Braiding</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Kyle</firstName>
+        <lastName>Blackham</lastName>
+        <phone>125-524-8989</phone>
+        <address>
+          <street>454 East Lane</street>
+          <city>Boise</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="07-24-2009">Eagle</rank>
+        <meritBadge dateEarned="01-17-2008">Hog Tying</meritBadge>
+        <meritBadge dateEarned="01-04-2004">Animal Taming</meritBadge>
+        <meritBadge dateEarned="02-04-2004">Captain Amerithon</meritBadge>
+        <meritBadge dateEarned="03-04-2004">Polar Bear Plunge</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Yosemite</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Lance</firstName>
+        <lastName>Herito</lastName>
+        <phone>201-172-7332</phone>
+        <address>
+          <street>45 Lake 17 East</street>
+          <city>Plano</city>
+          <state>Idaho</state>
+        </address>
+        <rank dateEarned="02-17-2010">1stClass</rank>
+        <meritBadge dateEarned="01-17-2006">Yosemite</meritBadge>
+        <meritBadge dateEarned="01-17-2006">Log Splitting</meritBadge>
+        <meritBadge dateEarned="01-17-2006">Ramp Building</meritBadge>
+      </scout>
+    </troop>
+    <troop troopNumber="5517" unitName="Panda">
+      <scout>
+        <firstName>Nayaro</firstName>
+        <lastName>Charc</lastName>
+        <phone>458-145-4459</phone>
+        <address>
+          <street>7845 Fake Blvd</street>
+          <city>LaLaVille</city>
+          <state>Rhode Island</state>
+        </address>
+        <rank dateEarned="05-24-2013">Star</rank>
+        <meritBadge dateEarned="01-17-2012">Roasting</meritBadge>
+        <meritBadge dateEarned="01-17-2012">Cookie Cutting</meritBadge>
+        <meritBadge dateEarned="01-17-2012">Whining</meritBadge>
+        <meritBadge dateEarned="01-17-2012">Lantern Reading</meritBadge>
+        <meritBadge dateEarned="01-17-2012">Log Splitting</meritBadge>
+        <meritBadge dateEarned="01-17-2012">Ramp Building</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Ben</firstName>
+        <lastName>Williams</lastName>
+        <phone>744-444-4426</phone>
+        <address>
+          <street>546 Winger Blvd</street>
+          <city>San Jose</city>
+          <state>California</state>
+        </address>
+        <rank dateEarned="08-12-2009">Life</rank>
+        <meritBadge dateEarned="01-17-2008">arate</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Knot Tying</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Pudding Tasting</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Basket Weaving</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Malnurished</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Hoas</firstName>
+        <lastName>Zoan</lastName>
+        <phone>477-585-5654</phone>
+        <address>
+          <street>9898 Walk Texas Ranger</street>
+          <city>Houston</city>
+          <state>Texas</state>
+        </address>
+        <rank dateEarned="04-23-2013">Tenderfoot</rank>
+        <meritBadge dateEarned="01-18-2011">Every Merit Badge Earned</meritBadge>
+        <meritBadge dateEarned="01-17-2011">Roasting</meritBadge>
+        <meritBadge dateEarned="01-17-2011">Cookie Cutting</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Archer</firstName>
+        <lastName>Sampson</lastName>
+        <phone>124-548-6589</phone>
+        <address>
+          <street>123 Lane Lane</street>
+          <city>Vimpi</city>
+          <state>North Dakota</state>
+        </address>
+        <rank dateEarned="12-24-2000">Star</rank>
+        <meritBadge dateEarned="07-14-2000">Courtship</meritBadge>
+        <meritBadge dateEarned="07-14-1999">Space Travel</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Pudding Tasting</meritBadge>
+      </scout>
+      <scout>
+        <firstName>Yuri</firstName>
+        <lastName>Neves</lastName>
+        <phone>666-575-6565</phone>
+        <address>
+          <street>43144 Hardy Highway</street>
+          <city>Sin</city>
+          <state>Florida</state>
+        </address>
+        <rank dateEarned="08-24-2006">2ndClass</rank>
+        <meritBadge dateEarned="07-14-2005">Cannon Mastery</meritBadge>
+        <meritBadge dateEarned="07-14-2005">World Traveler</meritBadge>
+        <meritBadge dateEarned="07-14-2005">Space Travel</meritBadge>
+        <meritBadge dateEarned="01-17-2008">Basket Weaving</meritBadge>
+        <meritBadge dateEarned="07-14-1999">Ruckuss Making</meritBadge>
+      </scout>
+    </troop>
+  </council>
+</bsa>

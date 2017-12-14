@@ -1,0 +1,18 @@
+
+# mkdir check06a.tar.dir 2>> check06a.compile 
+
+# cp check06a.tar check06a.tar.dir/tar.tar 2>> check06a.compile 
+
+# tar -xf  check06a.tar.dir/tar.tar -C check06a.tar.dir 2>> check06a.compile >> check06a.compile 
+
+# make a.out -C check06a.tar.dir 2>> check06a.compile >> check06a.compile 
+make: Entering directory `/home/all15019/check06a/check06a.tar.dir'
+g++ -c robot.cpp
+g++ -c point.cpp
+g++ -c check06a.cpp 
+g++ robot.o point.o check06a.o
+make: Leaving directory `/home/all15019/check06a/check06a.tar.dir'
+
+# mv check06a.tar.dir/a.out /tmp/testbed/compileDircb807cba-c9fd-471f-920c-93ab60c2eaa1/check06a 2>> check06a.compile >> check06a.compile 
+
+# rm -rf check06a.tar.dir 2>> check06a.compile 

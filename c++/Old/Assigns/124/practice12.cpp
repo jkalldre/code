@@ -1,0 +1,77 @@
+/**************************************************************************
+* Program:
+*    PracticeTest 1,
+*    Brother Grimmett, CS124
+* Author:
+*    Jacob Alldredge
+* Summary: 
+*    Enter a brief description of your program here!  Please note that if
+*    you do not take the time to fill out this block, YOU WILL LOSE POINTS
+**************************************************************************/
+
+#include <iostream>
+
+using namespace std;
+
+void displayPassedOrMore(float testGrade);
+void displayFailed(float testGrade);
+
+/**********************************************
+* Request user input and call display functions
+* according to grade
+**********************************************/
+int main()
+{
+   float testGrade = 0;
+
+   cout << endl
+        << "=======================================\n"
+        << "What was your grade on the last test? ";
+   cin >> testGrade;
+      
+   if (testGrade >= 60)
+      displayPassedOrMore(testGrade);
+
+   else
+      displayFailed(testGrade);
+
+   return 0;
+}
+
+/************************************************
+* If user grade is within the passing range this
+* function will be called and display.
+************************************************/
+void displayPassedOrMore(float testGrade)
+{
+   if (testGrade >= 60 && testGrade <= 100)
+      cout << "You passed the test!\n"
+           << "=======================================\n" << endl;
+    
+   else if (testGrade > 100)
+      cout << "You passed the test! With extra credit at that!\n"
+           << "=======================================\n" << endl;
+       
+   return;
+   
+}
+
+/****************************************************
+* If user grade is not within the passing range this
+* function will be called and display.
+****************************************************/
+void displayFailed(float testGrade)
+{
+   if (testGrade < 60 && testGrade >= 0)
+      cout << "You failed the test.\n"
+           << "=======================================\n" << endl;
+
+   else
+      cout << "Invalid Input\n"
+           << "=======================================\n" << endl;
+   
+   return;
+   
+}
+
+

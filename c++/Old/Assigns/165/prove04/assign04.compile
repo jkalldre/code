@@ -1,0 +1,334 @@
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDira38f4e03-1a34-4f69-86b1-0ccefd8d91f1/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir4b5c30d2-7a38-4883-aee9-7a8b44de279d/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDira9b15c01-b458-44f4-bd84-1c313a4a0107/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir16e0c476-06a3-4958-b3c5-e86e33cb1f2e/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir0cf71046-fe3a-4dc2-8af9-dcc762bbb69e/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDirb71f664b-e9c5-405f-9a6b-5ab1a138e0ed/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir690c0c2a-813b-4a71-a044-5d385991ee86/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDirb2114365-c5ee-4af1-a329-f349c549b36b/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDirebeee421-41ec-4451-bc0a-863c3ec6a5f5/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir153ca1e4-45dd-4e27-b2ee-0530e887bac9/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir6786cd83-cd56-4ec2-86f0-9d15645469ee/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir05bebeff-a258-4f1a-b572-0e1f3aa62aa6/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir35852fc0-e12d-4cb0-8c0d-ea402aa07a75/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir9b924553-61f5-4419-b640-a2e98e8c7b11/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir72770654-03d6-4b97-baee-e5794f46e6c2/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+product.cpp: In member function ‘void Product::displayInventoryLineItem()’:
+product.cpp:72: error: expected ‘;’ before ‘endl’
+make: *** [a.out] Error 1
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDirbe63b53d-cb84-4f44-bf6b-b65e93e47ae4/assign04 2>> assign04.compile >> assign04.compile 
+mv: cannot stat `assign04.tar.dir/a.out': No such file or directory
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDir17d7b73b-a366-41cc-b1e4-a1ec524fc4ba/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDird785f157-e7c6-44ac-a512-eddb953aa36b/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDira31ef8ad-f76b-482c-b657-0285227ef4a5/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDirb7563fdb-4d95-405a-b8ba-0b5bce6b1571/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDira3c86b82-6cdd-4676-988d-364d543ca7fd/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 
+
+# mkdir assign04.tar.dir 2>> assign04.compile 
+
+# cp assign04.tar assign04.tar.dir/tar.tar 2>> assign04.compile 
+
+# tar -xf  assign04.tar.dir/tar.tar -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+
+# make a.out -C assign04.tar.dir 2>> assign04.compile >> assign04.compile 
+make: Entering directory `/home/all15019/prove04/assign04.tar.dir'
+g++ product.cpp assign04.cpp
+make: Leaving directory `/home/all15019/prove04/assign04.tar.dir'
+
+# mv assign04.tar.dir/a.out /tmp/testbed/compileDirc64fb5ec-42fc-4517-b289-7af1dc6ea74b/assign04 2>> assign04.compile >> assign04.compile 
+
+# rm -rf assign04.tar.dir 2>> assign04.compile 

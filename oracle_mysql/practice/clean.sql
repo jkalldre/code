@@ -1,0 +1,5 @@
+DROP TABLE orders;
+DROP TABLE customer;
+
+DROP SEQUENCE seq1;
+DROP SEQUENCE seq2;

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en-US">
+<head> <!-- this doesn't display on browser -->
+<style>
+p {
+  font-family:verdana;
+}
+a {
+  font-family:serif;
+}
+</style>
+<title>Jacob Alldredge's Homepage</title> 
+</head>
+
+<div style="background-color:lightgreen; color:black;
+  padding:100px; font-family:courier; font-size:140%;
+  text-align:center;">
+<body> <!-- portion that is displayed -->
+<h1 style="text-align:center; font-size:200%;"><span style="color:red;">
+  Welcome</span> to<br>Jacob Alldredge's<br> <span style="color:red">Homepage</span>!</h1>
+
+<table align="center" style="width:66%; text-align:left;
+  background-color:lightgray;" border="5" >
+  <tr>
+<td><img src="https://scontent-sea1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/10011321_10208434877772604_5281851027516728634_n.jpg?oh=d4234cba5f4695b5c9c2619733fb5d8a&oe=573B420C" 
+  alt="=( error loading image" style=" width:550px; height:550px; text-align:center;">
+</td>
+<td>
+<ul style="list-style-position:inside">
+  <li><p><b>Jacob Kenneth Alldredge - Age</b>: 21</p></li>
+  <li><p><b>Hometown</b>: Vidor, Texas</p></li>
+  <li><p><b>Major</b>: Computer Science</p></li>
+  <li><p><i>Single</i></p></li>
+</ul>
+</td>
+  </tr>
+</table>
+<p>My Favorite Quote:</p>
+<blockquote cite="Dieter F. Uchtdorf">
+Live in such a way that if someone spoke badly of <br>you no one would believe it. -Dieter F. Uchtdorf
+</blockquote> 
+<a href="http://www.facebook.com/jake.k.alldredge"
+  target="_blank"
+  style="font-size:150%; text-align:right;"
+  title="My Facebook">Facebook</a><br><br>
+<a href="http://localhost/~jkalldre/index.html"
+  style="text-align:right;">CS 213 Assignments</a>
+
+</body>
+</html>

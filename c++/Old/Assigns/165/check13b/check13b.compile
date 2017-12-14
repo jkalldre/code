@@ -1,0 +1,17 @@
+
+# mkdir check13b.tar.dir 2>> check13b.compile 
+
+# cp check13b.tar check13b.tar.dir/tar.tar 2>> check13b.compile 
+
+# tar -xf  check13b.tar.dir/tar.tar -C check13b.tar.dir 2>> check13b.compile >> check13b.compile 
+
+# make a.out -C check13b.tar.dir 2>> check13b.compile >> check13b.compile 
+make: Entering directory `/home/all15019/check13b/check13b.tar.dir'
+g++ -c numberList.cpp
+g++ -c check13b.cpp
+g++ numberList.o check13b.o
+make: Leaving directory `/home/all15019/check13b/check13b.tar.dir'
+
+# mv check13b.tar.dir/a.out /tmp/testbed/compileDir0c31d311-f582-4e2a-a0fe-ad479e499efc/check13b 2>> check13b.compile >> check13b.compile 
+
+# rm -rf check13b.tar.dir 2>> check13b.compile 

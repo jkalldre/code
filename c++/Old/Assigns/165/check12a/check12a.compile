@@ -1,0 +1,34 @@
+
+# mkdir check12a.tar.dir 2>> check12a.compile 
+
+# cp check12a.tar check12a.tar.dir/tar.tar 2>> check12a.compile 
+
+# tar -xf  check12a.tar.dir/tar.tar -C check12a.tar.dir 2>> check12a.compile >> check12a.compile 
+
+# make a.out -C check12a.tar.dir 2>> check12a.compile >> check12a.compile 
+make: Entering directory `/home/all15019/check12a/check12a.tar.dir'
+g++ -c money.cpp
+g++ -c check08a.cpp
+g++ money.o check08a.o
+make: Leaving directory `/home/all15019/check12a/check12a.tar.dir'
+
+# mv check12a.tar.dir/a.out /tmp/testbed/compileDirf300f2b3-5bb6-4701-bfde-f858bb929263/check12a 2>> check12a.compile >> check12a.compile 
+
+# rm -rf check12a.tar.dir 2>> check12a.compile 
+
+# mkdir check12a.tar.dir 2>> check12a.compile 
+
+# cp check12a.tar check12a.tar.dir/tar.tar 2>> check12a.compile 
+
+# tar -xf  check12a.tar.dir/tar.tar -C check12a.tar.dir 2>> check12a.compile >> check12a.compile 
+
+# make a.out -C check12a.tar.dir 2>> check12a.compile >> check12a.compile 
+make: Entering directory `/home/all15019/check12a/check12a.tar.dir'
+g++ -c money.cpp
+g++ -c check08a.cpp
+g++ money.o check08a.o
+make: Leaving directory `/home/all15019/check12a/check12a.tar.dir'
+
+# mv check12a.tar.dir/a.out /tmp/testbed/compileDira4e38ec4-5294-4208-9814-f972e26191e5/check12a 2>> check12a.compile >> check12a.compile 
+
+# rm -rf check12a.tar.dir 2>> check12a.compile 

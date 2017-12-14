@@ -1,0 +1,55 @@
+/***********************************************************************
+* Program:
+*    Assignment ex23b, for loop          (e.g. Assignment 01, Hello World)  
+*    Brother Grimmett, CS124
+* Author:
+*    Jacob Alldredge
+* Summary: 
+*    Enter a brief description of your program here!  Please note that if
+*    you do not take the time to fill out this block, YOU WILL LOSE POINTS.
+*    Before you begin working, estimate the time you think it will
+*    take you to do the assignment and include it in this header block.
+*    Before you submit the assignment include the actual time it took.
+*
+*    Estimated:  0.0 hrs   
+*    Actual:     0.0 hrs
+*      Please describe briefly what was the most difficult part.
+************************************************************************/
+
+#include <iostream>
+using namespace std;
+
+/**********************************************************************
+ * Add text here to describe what the function "main" does. Also don't forget
+ * to fill this out with meaningful text or YOU WILL LOSE POINTS.
+ ***********************************************************************/
+int main()
+{
+   int start = 0;
+   int end = 0;
+   int increment = 0;
+
+   cout << "what value do you want to start at? ";
+   cin >> start;
+
+   cout << "What value do you want to end at? ";
+   cin >> end;
+
+   cout << "What will you count by (example 2s): ";
+   cin >> increment;
+
+   if (start < end)
+      
+      for (int count = start; count <= end; count += increment)
+         cout << "\t" << count << endl;
+
+   else if (start > end)
+
+      for (int count = start; count >= end; count = count - increment)
+         cout << "\t" << count << endl;
+
+   else
+      cout << "\t" << start << endl;
+
+   return 0;
+}

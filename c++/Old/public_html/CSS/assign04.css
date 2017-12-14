@@ -1,0 +1,98 @@
+a:visited {
+    color:blue;
+}
+
+body {
+  background-image:url(../house.jpg);
+  margin-left: auto;
+  margin-right:auto;
+  margin-top:.5em;
+  font-family:papyrus;
+  font-weight:bold;
+  font-size:2em;
+}
+
+button {
+  border-radius: 5em;
+  height:2em;
+  font-family:papyrus;
+  font-weight:bold;
+  font-size:1em;
+  border:none;
+}
+
+button:focus {
+  outline:0;
+}
+
+form {
+  margin:10em 10em;
+  background-color:#9EBFC8;
+  padding:3em 0 3em 1em;
+  border-radius:10em;
+  opacity:1.0;
+}
+
+h1 {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+
+input {
+  height:1.5em;
+  font-size:1em;
+}
+
+input:focus {
+  border:2px solid blue;
+}
+
+table {
+   text-align:left;
+   margin:auto;
+   opacity:1.0;
+}
+
+th {
+  border: 1px solid #A4B5CE;
+  font-size:2em;
+}
+
+#err {
+   width:10em;
+   height:auto;
+   background-color:lightgray;
+   border-radius:1em;
+   border:1px solid red;
+   position:relative;
+   float:right;
+   bottom:20em;
+   vertical-align:middle;
+   text-align:justify;
+   padding: 0 1em;
+   visibility:hidden;
+}
+
+#hid {
+  width:1em;
+  height:1em;
+  color:black;
+  background-color:lightgray;
+  border:1px solid darkgray;
+  line-height: 1em;
+}
+
+.trans {
+  background-color:white;
+  margin-left: 13em;
+  margin-right:2em;
+  height:80em;
+  width:80%;
+  opacity:.6;
+}
+
+.wrap {
+  width:55em;
+  margin:auto;
+}

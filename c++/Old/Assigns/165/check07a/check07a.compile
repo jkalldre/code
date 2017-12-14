@@ -1,0 +1,17 @@
+
+# mkdir check07a.tar.dir 2>> check07a.compile 
+
+# cp check07a.tar check07a.tar.dir/tar.tar 2>> check07a.compile 
+
+# tar -xf  check07a.tar.dir/tar.tar -C check07a.tar.dir 2>> check07a.compile >> check07a.compile 
+
+# make a.out -C check07a.tar.dir 2>> check07a.compile >> check07a.compile 
+make: Entering directory `/home/all15019/check07a/check07a.tar.dir'
+g++ -c icecream.cpp
+g++ -c check07a.cpp
+g++ icecream.o check07a.o
+make: Leaving directory `/home/all15019/check07a/check07a.tar.dir'
+
+# mv check07a.tar.dir/a.out /tmp/testbed/compileDir759fa08c-09e9-4b6b-8a9f-ec51266fb874/check07a 2>> check07a.compile >> check07a.compile 
+
+# rm -rf check07a.tar.dir 2>> check07a.compile 

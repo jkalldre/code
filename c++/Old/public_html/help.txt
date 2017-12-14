@@ -1,0 +1,4 @@
+Whenever you create any HTML, XML, or CSS file the permissions will need to
+be explicitly set via "chmod 644 file.*"
+
+Homepage URL "http://157.201.194.254/~jkalldre/file.*"

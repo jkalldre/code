@@ -1,0 +1,86 @@
+/***********************************************************************
+* Program:
+*    Test 2, Guessing Game          (e.g. Test 2, Flip a coin)  
+*    Brother Grimmett, CS124
+* Author:
+*    Jacob Alldredge
+* Summary: 
+*    This program will generate a random number that the user will try
+*    and guess, all the while giving hints if the number is too high
+*    or too low. Then inform the user how many guesses they made.
+*    
+*
+************************************************************************/
+
+#include <iostream>   // for CIN, COUT
+#include <ctime>      // for time(), part of the random process
+#include <stdlib.h>   // for rand()
+using namespace std;
+
+int getRandom();
+void display(int random);
+
+/**********************************************************************
+ * main sets up the random number generator and will call getRandom
+ * to retrieve it and send it to display
+ ***********************************************************************/
+int main(int argc, char **argv)
+{
+   srand(argc == 1 ? time(NULL) : (int)argv[1][1]);
+   
+   int random = getRandom();
+   display(random);
+   
+   return 0;
+}
+
+/****************************************************
+ * getRandom will generate a random number and return
+ * it to main
+ ***************************************************/
+int getRandom()
+{
+   int random = rand() % 100;
+
+   return random;
+}
+
+/*****************************************************
+ * display will prompt the user for input and return
+ * info to help the user guess the random number
+ * then display how many attempts were made
+ ****************************************************/
+void display(int random)
+{
+   int guess = 0;
+   int i = 0;
+   
+   do
+   {
+      cout << "What is your guess: ";
+      cin >> guess;
+      
+      if (guess > random)
+      {
+         cout << "Too high" << endl;
+         i++;
+      }
+      
+      else if (guess < random)
+      {
+         cout << "Too low" << endl;
+         i++;
+      }
+      
+      else if (guess == random)
+      {
+         i++;
+         cout << "You guessed it in " << i << " tries" << endl;
+      }
+      
+   }
+   while (guess != random);
+
+   return;
+   
+}

@@ -1,0 +1,17 @@
+
+# mkdir check12b.tar.dir 2>> check12b.compile 
+
+# cp check12b.tar check12b.tar.dir/tar.tar 2>> check12b.compile 
+
+# tar -xf  check12b.tar.dir/tar.tar -C check12b.tar.dir 2>> check12b.compile >> check12b.compile 
+
+# make a.out -C check12b.tar.dir 2>> check12b.compile >> check12b.compile 
+make: Entering directory `/home/all15019/check12b/check12b.tar.dir'
+g++ -c money.cpp
+g++ -c check12b.cpp
+g++ money.o check12b.o
+make: Leaving directory `/home/all15019/check12b/check12b.tar.dir'
+
+# mv check12b.tar.dir/a.out /tmp/testbed/compileDir145e1145-6368-4d24-8691-b5e7faf4926d/check12b 2>> check12b.compile >> check12b.compile 
+
+# rm -rf check12b.tar.dir 2>> check12b.compile 

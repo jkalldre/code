@@ -1,0 +1,49 @@
+body {
+  font-size: 1vw;
+}
+
+fieldset {
+  font-size: 2vw;
+  text-align: left;
+}
+
+h1 {
+  font-size: 4vw;
+  font-family:papyrus;
+}
+
+label {
+  white-space:pre;
+}
+
+table {
+   text-align: right;
+}
+
+th {
+  background-color: lightgreen;
+  font-size: 2vw;
+  padding:0 1vw;
+}
+
+tr {
+  background-color:lightgray;
+}
+
+.bod {
+  background-color:lightgrey;
+  border:2px solid grey;
+  margin:0 10vw 1vw;
+  text-align:center;
+}
+
+.hide {
+  visibility:hidden;
+}
+
+.reg {
+  background-color:white;
+  margin: 0 3vw 5vw;
+  padding:0;
+  font-size:1.5vw;
+}
