@@ -1,5 +1,13 @@
 * Basic stuff 
+  - This program is being worked on.
   - Run program with -> python main.py
   - Text box used to speed up loop, values between 0-1 work best
   - Reset -> clears the board
   - Start/Stop -> pauses and resumes loop
+
+
+* Fix/Improve
+  - [ ] Switch from buttons to alternative (clickable grid?)
+  - [ ] Scale units to increase maximum volume
+  - [ ] 
+
