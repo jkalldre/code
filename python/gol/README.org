@@ -11,3 +11,5 @@
   - [ ] Scale units to increase maximum volume
   - [ ] 
 
+* Note
+  - Windows loads instantly but the buttons are squished, linux buttons are fine but take forever to load

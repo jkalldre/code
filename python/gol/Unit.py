@@ -4,7 +4,7 @@ from random import randint
 class Unit:
     def __init__(self, top, handler, font):
         self.button = Tkinter.Button(top, command=handler,bg="light gray",\
-                                     font=font, width=0, height=0)
+                                     font=font, width=1, height=1)
         self.alive = randint(0,1)
         self.neighbors = 0
         self.invertLife()
