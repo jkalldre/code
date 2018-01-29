@@ -6,8 +6,8 @@
   - Start/Stop -> pauses and resumes loop
 
 
-* Fix/Improve
+* Fix/Improve/Add
   - [ ] Switch from buttons to alternative (clickable grid?)
   - [ ] Scale units to increase maximum volume
-  - [ ] 
+  - [ ] Buttons to demonstrate Conway's patterns (Still lifes, oscillators, spaceships..)
 
