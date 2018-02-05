@@ -5,13 +5,12 @@ from GUI    import *
 import sys
 
 def main():
-    size = 500
     if len(sys.argv) == 2:
         slp = float(sys.argv[1])/10
     else:
         slp = .5
     print slp
-    gui = GUI(20,size,size)
+    gui = GUI(20)
     while True:
         gui.top.update()
         gui.top.update_idletasks()
