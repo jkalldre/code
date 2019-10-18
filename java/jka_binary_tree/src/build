@@ -1,0 +1,2 @@
+#!/bin/bash
+javac jka_binary_tree/Main.java && java jka_binary_tree/Main
