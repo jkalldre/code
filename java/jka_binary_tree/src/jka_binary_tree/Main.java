@@ -32,9 +32,19 @@ public class Main {
 		// Build the tree according to user selected method.
 		execute();
 
+		// Build a balanced tree.
+		binaryTree.balanceTree();
+		
 		// Display built tree.
-		binaryTree.displayTree();
-
+		System.out.println("=Tree Structure=");
+		binaryTree.displayTree(binaryTree.getRoot());
+		
+		// Display balanced tree.
+		System.out.println("");
+		System.out.println("=Balanced Tree Structure=");
+		binaryTree.displayTree(binaryTree.getBalanced());
+		
+		
 		// Iterate though the tree.
 		// binaryTree.inOrder();
 		// binaryTree.inReverse();
@@ -49,18 +59,7 @@ public class Main {
 		System.out.print("> ");
 		switch (s.nextInt()) {
 		case 1: // Pre-structured tree (good for testing)
-			// root
-			binaryTree.add(4);
-
-			binaryTree.add(2);
-			binaryTree.add(1);
-			binaryTree.add(3);
-			binaryTree.add(6);
-			binaryTree.add(5);
-			binaryTree.add(7);
-			binaryTree.add(9);
-			binaryTree.add(8);
-			binaryTree.add(0);
+			structured();
 			break;
 		case 2: // randomly generate and insert nodes
 			Random random = new Random();
@@ -81,14 +80,30 @@ public class Main {
 				binaryTree.add(s.nextInt());
 
 				clear(pb);
-				binaryTree.displayTree();
+				binaryTree.displayTree(binaryTree.getRoot());
 				count++;
 			}
 			break;
 		default:
+			structured();
 			break;
 
 		}
+	}
+
+	private static void structured() {
+		// root
+		binaryTree.add(4);
+
+		binaryTree.add(2);
+		binaryTree.add(1);
+		binaryTree.add(3);
+		binaryTree.add(6);
+		binaryTree.add(5);
+		binaryTree.add(7);
+		binaryTree.add(9);
+		binaryTree.add(8);
+		binaryTree.add(0);
 	}
 
 	/**
